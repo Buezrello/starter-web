@@ -23,6 +23,8 @@ or even local file system.
 
 ## How to contribute
 
+Please fork this repository and then issue Pull Request
+fot review.
 
 ### Copyright
 
