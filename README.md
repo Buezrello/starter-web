@@ -2,6 +2,7 @@
 
 This is simple website project
 for showing hot to use Git and Github together.
+Adding a line for rebasing example.
 
 ## Introduction
 
